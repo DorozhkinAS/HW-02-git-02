@@ -46,6 +46,13 @@
    ## Задание 4. Упрощаем себе жизнь. Решение.
 
    
+<img width="725" height="1027" alt="4" src="https://github.com/user-attachments/assets/d3df2bca-5f43-41be-a3a9-57fcac6fa56b" />
+
+
+
+
+
+
 
 
 
