@@ -1,11 +1,13 @@
 
-  ## Домашнее задание к занятию «Основы Git»
+
+   ## Домашнее задание к занятию «Основы Git»
 
 
 1. Дорожкин Артем
 2. Mail@email.ru
 
-   ## Задание №1. Знакомимся с GitLab (обязательно) 
+
+   ## Задание №1. Знакомимся с GitLab (обязательно) Решение. 
 
 
 <img width="960" height="107" alt="22" src="https://github.com/user-attachments/assets/ba6f7d44-d729-4bdf-93e4-6231d075ecc9" />
@@ -15,6 +17,22 @@
 
 
 <img width="1446" height="486" alt="11" src="https://github.com/user-attachments/assets/e425bde8-3673-4287-ae97-e95cf3516c1b" />
+
+
+   ## Задание 2. Теги. Решение.
+
+
+<img width="755" height="266" alt="tag-lab" src="https://github.com/user-attachments/assets/b719ff03-c3bc-4446-8afc-c1b1512dad62" />
+
+<img width="976" height="761" alt="tag - lab" src="https://github.com/user-attachments/assets/c2433ec5-262e-4995-9feb-3b79c3cbe39a" />
+
+<img width="1319" height="497" alt="tag-hab" src="https://github.com/user-attachments/assets/47561cbe-a136-43fb-9d24-7ea84d365941" />
+
+
+   ## Задание 3. Ветки. Решение.
+
+
+   
 
 
 
