@@ -31,6 +31,19 @@
 
    ## Задание 3. Ветки. Решение.
 
+<img width="1020" height="568" alt="1" src="https://github.com/user-attachments/assets/1f0fd624-ab7b-4b37-8e29-cdcc82a775c1" />
+
+
+<img width="1067" height="714" alt="2" src="https://github.com/user-attachments/assets/32f2b7aa-bae2-42d6-a34f-4dd89deefd30" />
+
+
+<img width="1103" height="706" alt="3" src="https://github.com/user-attachments/assets/ffb8a2d3-3ee5-40eb-aff6-bd9c7d20b3b5" />
+
+
+<img width="1243" height="641" alt="4" src="https://github.com/user-attachments/assets/2dfcb7d5-23e2-43f2-851b-c48dbbb7a243" />
+
+
+   ## Задание 4. Упрощаем себе жизнь. Решение.
 
    
 
